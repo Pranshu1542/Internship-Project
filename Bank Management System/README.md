@@ -1,6 +1,6 @@
 # Bank Management System
 
-A C++ based Bank Management System using Object-Oriented Programming (OOP) and file handling to manage customer accounts and banking operations.
+A Python based Bank Management System using Object-Oriented Programming (OOP) and file handling to manage customer accounts and banking operations.
 
 ## Features
 
@@ -11,25 +11,27 @@ A C++ based Bank Management System using Object-Oriented Programming (OOP) and f
 - Withdraw money
 - Check account balance
 - Prevent duplicate account numbers
+- Input validation for names, account numbers and amounts
 - Store customer records using file handling
 - Maintain account data between program runs
 
 ## Technologies Used
 
-- C++
+- Python 3
 - Object-Oriented Programming (OOP)
 - File Handling
-- STL Vector
+- Lists and `try/except` error handling
 
 ## How to Run
 
-1. Compile `Bank_Management_System.cpp` using a C++ compiler.
-2. Run the generated executable.
+1. Make sure Python 3 is installed.
+2. Run the program:
+   ```
+   python bank_management.py
+   ```
 3. Create a new account.
 4. Use the menu to search accounts, deposit money, withdraw money, or check balances.
 
 ## Data Storage
 
-Customer account records are stored locally in `bankAccount.txt`.
-
-The data file is excluded from this repository using `.gitignore`.
+Customer account records are stored locally in `bankAccount.txt` in the format `name|account_number|balance`, one account per line.
