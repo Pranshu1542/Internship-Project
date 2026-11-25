@@ -1,21 +1,3 @@
-"""
-Predictive Analytics Using Historical Data
-------------------------------------------
-- Loads a CSV (columns: date, value) or generates a synthetic monthly sales dataset
-- Cleans and preprocesses data (dates, duplicates, missing values, outliers)
-- Builds features (lags, rolling stats, calendar) for regression models
-- Trains Linear Regression, Random Forest, Gradient Boosting + Holt-Winters (time-series)
-- Evaluates with MAE, RMSE, MAPE, R2 on a chronological test split
-- Visualizes predictions and forecasts future periods
-
-Usage:
-    python predictive_analytics.py                       # uses synthetic data
-    python predictive_analytics.py --csv data.csv --date-col Date --value-col Sales --horizon 12
-
-Install:
-    pip install pandas numpy scikit-learn matplotlib statsmodels
-"""
-
 import argparse
 import warnings
 
