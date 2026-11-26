@@ -1,0 +1,43 @@
+No input given -> generated messy sample data (645 rows)
+
+--- CLEANING ---
+Standardise column names               10  snake_case
+Placeholders -> missing               237  'N/A', '-', 'none', blank, ...
+Convert quantity to number              0  removed '$' and ',' from text values
+Convert unit_price to number           62  removed '$' and ',' from text values
+Normalise discount                     48  '10%' -> 0.10
+Parse mixed date formats              633  0 unparseable -> missing
+Standardise region                     86  12 -> 4 unique values
+Standardise category                   24  10 -> 5 unique values
+Standardise status                     75  10 -> 4 unique values
+Invalid emails -> missing              20  no '@' / bad format
+Remove duplicate rows                  45  identical after standardising text (incl. case/spacing copies)
+Remove repeated order IDs               0  kept first occurrence
+Invalid values -> missing              16  negative qty/price, discount outside 0-90%
+Drop rows without a date               12  cannot be placed in time
+Impute quantity                        44  median of category
+Impute unit_price                      30  median of category
+Impute discount                        46  0 (no discount)
+Fill text gaps                         64  customer/region/category -> 'Unknown', status -> 'Pending'; email left blank
+Cap outliers                           24  values above Q3 + 3*IQR set to the limit
+Final dataset                         588  12 columns
+
+--- QUALITY ---
+                      Check  Before  After
+                       Rows     645    588
+                    Columns      10     10
+Missing / placeholder cells     237     53
+        Duplicate order IDs      45      0
+
+--- KPIs ---
+                     Metric                      Value
+           Report generated           2026-11-26 22:05
+                 Date range 01 Jan 2024 to 27 Dec 2024
+   Orders (excl. cancelled)                        513
+              Total revenue                 439,976.68
+        Average order value                     857.65
+                 Top region                       East
+               Top category                Electronics
+Cancelled / returned orders                        106
+
+Saved to output/: cleaned_data.csv, sales_report.xlsx, sales_report.html, dashboard.png, pipeline.log

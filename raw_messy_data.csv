@@ -1,0 +1,646 @@
+Order ID,Customer Name,Email,Region,Category,Order Date,Quantity,Unit Price,Discount,Status
+ORD-1081,Neha Verma,neha.verma81@example.com,  North ,Home,"Dec 08, 2024",4,227.03,0.0,Cancelled
+ORD-1418,Anjali Jain,anjali.jain69@example.com,North,Sports,2024-10-09,8,31.91,0.1,Cancelled
+ORD-1466,Neha Verma,neha.verma87@example.com,South,Electronics,09/11/2024,5,435.47,0.0,Pending
+ORD-1378,Priya Singh,priya.singh34@example.com,North,Home,2024-08-23,3,$120.18,0.15,Completed
+ORD-1339,Rahul Khanna,rahul.khanna60@example.com,NORTH,Sports,2024-01-11,7,169.83,0.05,Completed
+ORD-1127,Rohan Gupta,rohan.gupta43@example.com,North,Clothing,"Jun 02, 2024",8,41.72,N/A,Pending
+ORD-1486,Rohan Gupta,rohan.gupta96@example.com,West,Clothing,"Jun 26, 2024",3,40.02,0.15,Completed
+ORD-1502,Aarav Sharma,aarav.sharma14@example.com,South,Sports,09/11/2024,5,-,0.1,Completed
+ORD-1438,Aarav Sharma,aarav.sharma14@example.com,NORTH,Clothing,"Sep 04, 2024",na,4664.5,0.05,  Completed 
+ORD-1535,Neha Verma,neha.verma8@example.com,North,Sports,15/04/2024,3,111.76,0.15,Completed 
+ORD-1159,Priya Singh,priya.singh78@example.com,West,Sports,24/01/2024,9,64.63,0.0,  Completed 
+ORD-1176,AARAV SHARMA,aarav.sharma91@example.com,north,Clothng,"Nov 27, 2024",1,58.89,0.0,Completed
+ORD-1177,Rohan Gupta,rohan.gupta3@example.com,East,Sports,13/11/2024,7,87.26,0.1,COMPLETED
+ORD-1175,Sneha Iyer,sneha.iyer62@example.com,West,Bookz,2024-07-13,7,11.53,0.05,Completed
+ORD-1513,Vikram Rao,vikram.rao42@example.com,North,Clothing,2024-11-17,2,98.7,0.05,Completed
+ORD-1201,nan,aarav.sharma85@example.com,SOUTH,Sports,16/10/2024,6,146.77,0.0,Completed
+ORD-1563,Karan Mehta,None,East,Electronics,"Mar 18, 2024",7,284.61,0.15,Completed
+ORD-1517,Karan Mehta,karan.mehta82@example.com,North,Clothing,26/10/2024,1,112.25,15%,completed
+ORD-1436,Neha Verma,neha.verma91@example.com,East,Home,"Jul 06, 2024",3,267.46,0.0,Pending
+ORD-1352,Karan Mehta,karan.mehta15@example.com,West,Home,"Jan 27, 2024",7,202.73,0.1,Completed
+ORD-1194,Rohan Gupta,na,South,Clothing,16/03/2024,9,38.89,0.0,Completed 
+ORD-1112,Rohan Gupta,rohan.gupta92@example.com,East,Electronics,2024-03-12,8,432.63,-,Completed
+ORD-1516,Vikram Rao,vikram.rao16@example.com,East,Clothing,13/02/2024,7,55.14,0.05,Completed
+ORD-1351,Rohan Gupta,rohan.gupta77@example.com,EAST,Electronics,2024-03-04,7,-,N/A,Completed
+ORD-1303,Vikram Rao,vikram.rao2@example.com,North,Books,2024-11-18,9,15.74,0.05,Completed
+ORD-1045,Rahul Khanna,rahul.khanna31@example.com,South,Electronics,"Nov 26, 2024",6,391.27,0.0,Pending
+ORD-1010,na,priya.singh27@example.com,North,Sports,"May 15, 2024",2,73.57,0.05,Completed
+ORD-1537,N/A,sneha.iyer61@example.com,East,Clothing,03/06/2024,9,36.92,0.2,Completed
+ORD-1376,Karan Mehta,karan.mehta90@example.com,South,Clothing,2024-04-20,1,52.28,0.0,completed
+ORD-1399,Karan Mehta,,west,Books,2024-09-19,None,$22.46,-,  Completed 
+ORD-1058,Rohan Gupta,rohan.gupta31@example.com,East,Home,2024-12-10,5,116.9,0.15,Returned
+ORD-1592,Rohan Gupta,rohan.gupta77@example.com,East,Clothng,2024-12-15,4,80.41,0.1,Completed
+ORD-1328,Pooja Nair,pooja.nair73@example.com,North,Books,"Mar 07, 2024",6,14.74,5%,Completed 
+ORD-1108,Neha Verma,nan,North,Electronics,"Jun 24, 2024",5,486.54,0.0,Completed 
+ORD-1289,Aarav Sharma,aarav.sharma71@example.com,na,Books,2024-12-22,7,$39.63,0.05,Completed 
+ORD-1142,Anjali Jain,anjali.jain20@example.com,North ,Electronics,15/07/2024,6,279.12,0.05,completed
+ORD-1532,Anjali Jain,anjali.jain28@example.com,na,Sports,2024-07-11,nan,22.49,na,Completed
+ORD-1347,Sneha Iyer,sneha.iyer59@example.com,South,Home,2024-12-20,7,241.14,0.0,Completed
+ORD-1428,Priya Singh,priya.singh29@example.com,East,Sports,2024-11-21,3,173.27,0.0,Cancelled
+ORD-1048,Rohan Gupta,rohan.gupta50@example.com,North,Home,20/08/2024,8,35.77,0.1,COMPLETED
+ORD-1447,Karan Mehta,karan.mehta30@example.com,East,Clothing,2024-10-16,1,$95.24,0.2,Completed
+ORD-1359,Karan Mehta,karan.mehta82@example.com,South ,Books,04/10/2024,6,38.83,0.05,Completed
+ORD-1355,Rohan Gupta,rohan.gupta14@example.com,West,Electronics,17/04/2024,1,604.53,0.0,Completed
+ORD-1296,Pooja Nair,pooja.nair74example.com,WEST,Clothing,"Dec 14, 2024",3,25.05,0.0,Cancelled
+ORD-1188,Rohan Gupta,rohan.gupta14@example.com,  South ,Electronics,05/05/2024,5,$486.95,0.05,Completed
+ORD-1037,Vikram Rao,vikram.rao42@example.com,South,Home,2024-01-22,7,223.68,-,Cancelled
+ORD-1097,Anjali Jain,anjali.jain90@example.com,north,Electronics,2024-06-01,5,569.21,0.0,Completed
+ORD-1370,Pooja Nair,pooja.nair64@example.com,West,Home,"Mar 06, 2024",2,252.07,0.1,completed
+ORD-1548,Sneha Iyer,sneha.iyer28@example.com,  North ,None,"Aug 27, 2024",5,$34.81,0.0,Completed
+ORD-1291,Rahul Khanna,rahul.khanna17@example.com,South,Home,2024-04-09,5,153.67,N/A,Completed
+ORD-1293,Neha Verma,neha.verma5@example.com,East,Clothing,2024-10-22,9,$15.70,0.0,Completed
+ORD-1031,Neha Verma,neha.verma55@example.com,East,Clothing,2024-05-22,6,None,0.1,Completed
+ORD-1555,Karan Mehta,karan.mehta69@example.com,South,Clothing,2024-05-01,3,85.68,10%,Completed
+ORD-1419,-,rahul.khanna10@example.com,North,Home,"Apr 26, 2024",7,237.8,0.2,Completed
+ORD-1209,Neha Verma,neha.verma53@example.com,East,Clothing,2024-01-15,3,76.54,0.0,Completed
+ORD-1145,Sneha Iyer,sneha.iyer72@example.com,South,Clothing,04/12/2024,7,83.79,0.0,Completed
+ORD-1080,Priya Singh,priya.singh71@example.com,West,Clothing,25/04/2024,2,116.54,0.1,Completed
+ORD-1136,Karan Mehta,-,North,Electronics,2024-12-17,9,630.81,0.1,Pending
+ORD-1402,Priya Singh,priya.singh32@example.com,east,Clothing,17/03/2024,1,100.64,10%,Completed
+ORD-1562,Rohan Gupta,rohan.gupta4example.com,South,Electronics,06/08/2024,2,215.27,0.0,Completed
+ORD-1306,Vikram Rao,vikram.rao31@example.com,SOUTH,Clothing,2024-06-14,7,45.65,0.0,  Completed 
+ORD-1529,Priya Singh,priya.singh78@example.com,north,Clothing,2024-05-09,7,42.56,0%,Completed
+ORD-1443,Aarav Sharma,aarav.sharma10example.com,  East ,Home,2024-12-02,5,159.38,0.1,Completed 
+ORD-1103,None,vikram.rao94@example.com,N/A,Home,"Aug 06, 2024",7,88.28,0.0,Completed
+ORD-1105,Anjali Jain,na,North,Home,20/06/2024,4,119.4,0.15,Returned
+ORD-1574,Neha Verma,neha.verma15@example.com,West,Home,03/10/2024,2,60.9,0.0,Completed
+ORD-1467,Priya Singh,priya.singh27@example.com,South,Home,"Nov 18, 2024",9,47.26,0.0,Completed
+ORD-1439,Sneha Iyer,sneha.iyer21@example.com,  North ,Sports,2024-02-12,3,134.3,0.0,COMPLETED
+ORD-1381,Vikram Rao,vikram.rao27@example.com,North,Electronics,2024-06-26,8,398.65,0.2,Completed
+ORD-1542,Sneha Iyer,sneha.iyer83@example.com,West,Books,2024-10-15,2,39.66,0.0,Completed
+ORD-1053,N/A,neha.verma83@example.com,East,Electronics,2024-06-23,2,$350.49,0.1,completed
+ORD-1266,Neha Verma,neha.verma98@example.com,North,Clothing,2024-12-26,2,87.2,0.05,completed
+ORD-1557,Neha Verma,neha.verma69@example.com,North,Hom,"Jan 07, 2024",8,262.55,,Completed
+ORD-1272,Rohan Gupta,rohan.gupta53@example.com,South ,Electronics,27/07/2024,3,$847.05,0.0,Completed
+ORD-1101,Pooja Nair,pooja.nair75@example.com,South,Books,20/10/2024,7,22.95,0.1,COMPLETED
+ORD-1131,Neha Verma,neha.verma18@example.com,East,Books,"Sep 06, 2024",3,5.7,0.1,completed
+ORD-1111,Aarav Sharma,aarav.sharma78@example.com,South,Electronics,24/12/2024,-9,399.28,0.1,Completed
+ORD-1232,Neha Verma,neha.verma31@example.com,WEST,Home,2024-12-21,4,260.21,0.05,completed
+ORD-1453,Sneha Iyer,sneha.iyer26@example.com,South,N/A,07/10/2024,4,230.19,0.0,Pending
+ORD-1315,Sneha Iyer,sneha.iyer14@example.com,West,Sports,"Nov 06, 2024",5,193.73,0.0,Completed
+ORD-1185,Karan Mehta,karan.mehta87@example.com,East,Home,"Jan 11, 2024",4,168.94,0.15,Completed
+ORD-1304,Rohan Gupta,rohan.gupta39@example.com,South,Books,"Nov 07, 2024",3,18.45,0.1,Pending
+ORD-1124,Sneha Iyer,N/A,na,Books,05/11/2024,1,nan,0.2,Completed
+ORD-1457,Anjali Jain,anjali.jain16@example.com,nan,Clothing,N/A,-,110.78,None,Returned
+ORD-1498,Sneha Iyer,sneha.iyer51@example.com,East,Electronics,05/08/2024,7,$241.57,0.0,Completed
+ORD-1204,Sneha Iyer,sneha.iyer5example.com,West,Clothing,2024-09-21,7,36.14,10%,  Completed 
+ORD-1506,Vikram Rao,vikram.rao12@example.com,WEST,Home,21/06/2024,5,217.22,0.0,completed
+ORD-1046,Pooja Nair,pooja.nair27@example.com,na,Clothing,21/02/2024,5,53.07,0.05,Cancelled
+ORD-1479,Sneha Iyer,sneha.iyer38@example.com,West,Sports,2024-04-18,6,196.38,0.15,  Completed 
+ORD-1123,Pooja Nair,pooja.nair90@example.com,North,Home,08/08/2024,2,210.63,0.05,Completed
+ORD-1206,Rohan Gupta,rohan.gupta56@example.com,North ,Electronics,2024-11-02,2,779.02,0.1,Completed
+ORD-1365,Aarav Sharma,aarav.sharma15@example.com,North,Electronics,04/09/2024,5,474.72,0.0,Cancelled
+ORD-1014,Rahul Khanna,rahul.khanna73@example.com,East,Electronics,"Aug 27, 2024",7,411.62,0.15,Completed
+ORD-1224,,neha.verma93@example.com,North,Books,2024-09-23,1,12.19,-,Completed
+ORD-1358,Neha Verma,neha.verma4@example.com,North,Sports,2024-04-19,8,198.46,0.15,Completed 
+ORD-1061,Karan Mehta,karan.mehta72@example.com,East,Sports,2024-10-15,4,73.76,0.0,Cancelled
+ORD-1340,Karan Mehta,karan.mehta26@example.com,East,Electronics,"May 06, 2024",9,820.66,0.0,Completed
+ORD-1107,Rahul Khanna,rahul.khanna57@example.com,South ,Electronics,"Oct 08, 2024",-8,454.78,0.0,Completed
+ORD-1595,na,rahul.khanna60@example.com,West,Sports,2024-08-15,7,106.4,0.0,Completed
+ORD-1416,Karan Mehta,karan.mehta62@example.com,East,Clothing,"Nov 06, 2024",9,92.41,0.05,Completed
+ORD-1144,Priya Singh,priya.singh66@example.com,East,Hom,2024-07-11,9,$122.87,0.0,Cancelled
+ORD-1192,Sneha Iyer,sneha.iyer96@example.com,South ,Sprts,2024-01-07,7,72.19,0.0,Pending
+ORD-1073,Karan Mehta,karan.mehta64@example.com,East ,Home,"Oct 09, 2024",4,$254.56,0.0,Completed
+ORD-1047,Priya Singh,priya.singh17@example.com,North,Sports,08/09/2024,2,$167.04,0.1,Completed
+ORD-1509,Aarav Sharma,aarav.sharma83@example.com,North,Sports,"Jun 27, 2024",4,36.69,0.05,Completed
+ORD-1591,Anjali Jain,anjali.jain30@example.com,North,Clothing,"Sep 22, 2024",3,45.33,10%,Pending
+ORD-1067,Priya Singh,priya.singh75@example.com,West,Home,"Feb 08, 2024",8,257.42,0.0,Completed
+ORD-1487,Rahul Khanna,rahul.khanna25@example.com,South,Electronics,2024-09-07,4,282.94,0.1,Completed
+ORD-1551,AARAV SHARMA,aarav.sharma94@example.com,east,Electronics,06/10/2024,2,650.57,0.0,Completed
+ORD-1317,NEHA VERMA,neha.verma68@example.com,  north ,Sports,04/06/2024,-1,124.16,0.1,Completed
+ORD-1132,Rahul Khanna,rahul.khanna14@example.com,  West ,Sports,"Jun 10, 2024",9,138.26,0.2,Completed
+ORD-1582,Karan Mehta,karan.mehta57@example.com,North,Clothing,20/03/2024,9,75.94,0.0,Completed
+ORD-1247,Vikram Rao,vikram.rao80@example.com,South,Home,"Oct 03, 2024",9,270.54,0.05,Completed
+ORD-1239,Vikram Rao,vikram.rao10@example.com,North,Home,"Dec 16, 2024",9,85.34,20%,Returned
+ORD-1169,Karan Mehta,karan.mehta37@example.com,West,Sports,"Dec 02, 2024",9,72.87,0.0,Completed
+ORD-1283,Aarav Sharma,aarav.sharma26example.com,West ,Home,2024-08-27,2,113.21,0.15,Completed
+ORD-1215,Karan Mehta,karan.mehta93@example.com,North ,Books,14/05/2024,5,22.05,0.15,Completed
+ORD-1102,Aarav Sharma,aarav.sharma66@example.com,West,Home,"Jul 07, 2024",5,73.47,0.1,Completed
+ORD-1244,Karan Mehta,karan.mehta26@example.com,South,Electronics,19/02/2024,4,457.09,,COMPLETED
+ORD-1130,Neha Verma,neha.verma98@example.com,-,Home,2024-12-13,999,137.17,0.2,Cancelled
+ORD-1349,Rahul Khanna,rahul.khanna25@example.com,East ,Clothng,07/07/2024,7,109.14,0.0,Completed
+ORD-1499,Rohan Gupta,rohan.gupta72@example.com,West,Electronics,2024-04-03,6,198.77,0.05,Cancelled
+ORD-1385,Sneha Iyer,sneha.iyer97@example.com,North ,Sports,25/08/2024,3,122.28,0.1,Completed 
+ORD-1091,Aarav Sharma,aarav.sharma36@example.com,South,Electronic,,3,692.99,0.05,Returned
+ORD-1116,Pooja Nair,N/A,  North ,Home,17/11/2024,5,244.72,0.05,Completed
+ORD-1310,Priya Singh,priya.singh27@example.com,West,Sports,2024-09-06,1,84.8,0.0,COMPLETED
+ORD-1106,Pooja Nair,pooja.nair55@example.com,West,Clothng,"Sep 14, 2024",1,21.41,0.2,Completed
+ORD-1214,Rahul Khanna,rahul.khanna85@example.com,south,Sports,21/11/2024,9,109.47,0.0,Completed
+ORD-1027,Anjali Jain,anjali.jain19@example.com,North,Home,2024-12-11,7,244.84,0.0,Completed
+ORD-1043,Neha Verma,neha.verma72@example.com,East,Bookz,2024-11-08,5,12.01,5%,Completed
+ORD-1243,Aarav Sharma,aarav.sharma53@example.com,South,Clothing,2024-10-23,4,113.38,0.0,Completed
+ORD-1308,Karan Mehta,karan.mehta97@example.com,East,Clothing,14/01/2024,4,109.96,0.0,Completed 
+ORD-1270,Karan Mehta,karan.mehta47@example.com,North,Electronics,05/10/2024,9,,0.05,Cancelled
+ORD-1518,Pooja Nair,pooja.nair56@example.com,South,Electronics,2024-05-22,5,595.89,0.0,Returned
+ORD-1456,Neha Verma,neha.verma52@example.com,North,Electronics,14/09/2024,7,750.44,0.0,cancelled
+ORD-1460,Rahul Khanna,rahul.khanna50@example.com,North,Clothing,15/08/2024,nan,53.58,0%,Completed 
+ORD-1579,Sneha Iyer,na,South,na,03/04/2024,9,90.17,0.1,Completed
+ORD-1442,Vikram Rao,vikram.rao95@example.com,West,Home,"Apr 05, 2024",8,272.33,0.05,Cancelled 
+ORD-1121,Rohan Gupta,rohan.gupta67@example.com,East,Clothing,"Oct 06, 2024",7,104.15,0.1,COMPLETED
+ORD-1525,Rohan Gupta,rohan.gupta27@example.com,  South ,Books,19/10/2024,3,$17.48,0.05,Completed
+ORD-1028,Sneha Iyer,sneha.iyer39@example.com,North,Books,2024-10-10,3,28.14,na,Completed
+ORD-1129,Anjali Jain,anjali.jain68@example.com,South,Clothing,13/06/2024,2,27.61,0.1,Completed
+ORD-1515,Karan Mehta,karan.mehta46@example.com,East,Home,2024-07-27,8,273.22,0.0,Completed
+ORD-1137,Vikram Rao,vikram.rao89@example.com,South,Clothing,"Aug 08, 2024",2,103.02,0.05,Completed
+ORD-1155,Priya Singh,priya.singh89@example.com,South,Clothing,None,6,43.59,15%,Completed
+ORD-1524,Rohan Gupta,rohan.gupta56@example.com,East,Sports,"Aug 08, 2024",7,128.8,0.05,Completed
+ORD-1235,Neha Verma,neha.verma26@example.com,North,Electronics,15/01/2024,2,461.78,0.0,Completed
+ORD-1040,Sneha Iyer,sneha.iyer89@example.com,East,Home,2024-05-22,1,93.91,0.1,Completed 
+ORD-1427,Priya Singh,priya.singh14@example.com,East,Electronics,11/07/2024,3,516.35,0.1,Completed
+ORD-1264,Anjali Jain,anjali.jain35@example.com,West,Electronics,2024-03-14,4,207.04,0.0,Completed
+ORD-1016,Rahul Khanna,rahul.khanna79@example.com,North,Books,"Dec 16, 2024",3,27.17,0.0,Completed
+ORD-1008,Karan Mehta,karan.mehta27@example.com,East,Electronics,N/A,3,$662.34,0.15,Completed
+ORD-1358,Neha Verma,neha.verma4@example.com,North,Sports,2024-04-19,8,198.46,0.15,Completed 
+ORD-1319,Neha Verma,neha.verma37@example.com,West,Electronics,2024-11-13,2,,0.15,Completed
+ORD-1326,Priya Singh,priya.singh86@example.com,North,Books,2024-02-11,7,29.88,0.15,Cancelled
+ORD-1201,nan,aarav.sharma85@example.com,SOUTH,Sports,16/10/2024,6,146.77,0.0,Completed
+ORD-1397,Rahul Khanna,rahul.khanna85@example.com,South,Sports,"Mar 20, 2024",9,35.62,0.05,  Completed 
+ORD-1321,Pooja Nair,pooja.nair18@example.com,North,Electronics,2024-03-10,7,235.56,-,Completed
+ORD-1338,Anjali Jain,anjali.jain4@example.com,East,Sports,"Aug 24, 2024",9,72.6,0.15,Cancelled
+ORD-1185,Karan Mehta,karan.mehta87@example.com,East,Home,"Jan 11, 2024",4,168.94,0.15,Completed
+ORD-1391,Karan Mehta,karan.mehta61@example.com,North ,Clothing,2024-12-16,4,$59.38,0.0,Completed
+ORD-1362,Rahul Khanna,rahul.khanna98@example.com,South,Electronics,"May 23, 2024",3,548.62,0.1,Cancelled
+ORD-1568,Rohan Gupta,rohan.gupta8@example.com,north,Sports,"Jul 12, 2024",9,$129.18,0.15,Completed
+ORD-1079,Priya Singh,priya.singh73@example.com,North,Sports,24/03/2024,5,189.5,0.1,Completed
+ORD-1382,Priya Singh,None,West,Clothing,2024-09-25,5,26.38,0.05,Cancelled
+ORD-1086,Pooja Nair,pooja.nair9@example.com,North,Clothing,"Sep 06, 2024",1,102.46,0.2,COMPLETED
+ORD-1170,Priya Singh,na,EAST,Home,"Aug 11, 2024",3,175.12,0.0,cancelled
+ORD-1049,Pooja Nair,pooja.nair36@example.com,West,Sports,"Dec 19, 2024",1,38.61,0.15,Completed
+ORD-1401,Rahul Khanna,rahul.khanna41@example.com,South,Sports,2024-12-27,9,156.88,20%,Completed
+ORD-1134,Vikram Rao,vikram.rao22@example.com,South,Electronics,25/12/2024,1,731.66,15%,completed
+ORD-1157,Rahul Khanna,rahul.khanna79@example.com,East,Electronics,"Jul 24, 2024",7,538.2,0.0,completed
+ORD-1237,Priya Singh,priya.singh7@example.com,South,Clothing,"Apr 19, 2024",5,114.94,0.2,Cancelled
+ORD-1057,Karan Mehta,karan.mehta73@example.com,East,Books,"Jun 14, 2024",7,$33.84,0.15,Completed
+ORD-1434,Neha Verma,neha.verma96@example.com,North,Home,"Dec 12, 2024",6,206.55,20%,Completed
+ORD-1322,Aarav Sharma,aarav.sharma84@example.com,West,Clothing,"Oct 11, 2024",4,92.0,0.1,Completed
+ORD-1345,Rohan Gupta,rohan.gupta55@example.com,South,Sports,2024-12-09,6,84.32,0.15,Completed
+ORD-1490,Aarav Sharma,None,South,Sports,2024-06-24,2,$24.30,0.0,  Completed 
+ORD-1223,None,neha.verma64example.com,South,Home,2024-10-04,9,60.79,0.0,Completed
+ORD-1055,Anjali Jain,anjali.jain10@example.com,south,Electronics,"Mar 04, 2024",8,316.17,0.05,Completed
+ORD-1323,Rohan Gupta,rohan.gupta35@example.com,East,Books,"Nov 16, 2024",1,33.23,0.15,Completed 
+ORD-1387,Vikram Rao,vikram.rao9@example.com,EAST,Hom,2024-11-17,9,-,0.15,Completed
+ORD-1211,Vikram Rao,vikram.rao70@example.com,East,Home,"Jun 06, 2024",7,$159.42,0.05,Pending
+ORD-1271,Sneha Iyer,sneha.iyer68@example.com,West,Sports,14/04/2024,-9,$172.50,0%,Cancelled
+ORD-1528,Rohan Gupta,rohan.gupta53@example.com,North,Electronics,"May 16, 2024",8,509.85,0.0,completed
+ORD-1229,Rohan Gupta,rohan.gupta20@example.com,North,Electronics,2024-11-11,2,526.52,0.0,Pending
+ORD-1210,Priya Singh,priya.singh68@example.com,nan,Electronic,"Jun 12, 2024",1,524.27,20%,Completed
+ORD-1126,Anjali Jain,anjali.jain70@example.com,east,Sprts,"Apr 20, 2024",3,145.87,0.1,Completed
+ORD-1025,Aarav Sharma,aarav.sharma39@example.com,West,Electronics,"Aug 24, 2024",8,10105.0,0.0,Completed
+ORD-1354,Rahul Khanna,rahul.khanna90@example.com,North,Books,"Mar 09, 2024",1,23.61,N/A,Completed
+ORD-1180,Anjali Jain,anjali.jain15@example.com,South,Books,2024-12-27,6,32.37,0.05,Completed
+ORD-1174,Neha Verma,neha.verma96@example.com,nan,Clothing,"Feb 12, 2024",1,113.24,20%,Completed
+ORD-1336,Aarav Sharma,aarav.sharma16@example.com,East,Books,12/11/2024,9,37.98,0.2,Completed
+ORD-1059,Karan Mehta,karan.mehta33@example.com,West,Electronics,"Sep 01, 2024",-7,168.37,0.0,Completed
+ORD-1539,Anjali Jain,anjali.jain92@example.com,south,Electronics,"Aug 06, 2024",8,742.35,0.05,Completed
+ORD-1153,Neha Verma,neha.verma37@example.com,East,Clothing,02/10/2024,1,114.35,0.15,Cancelled 
+ORD-1111,Aarav Sharma,aarav.sharma78@example.com,South,Electronics,24/12/2024,-9,399.28,0.1,Completed
+ORD-1496,Sneha Iyer,sneha.iyer12@example.com,South,Clothing,"Dec 07, 2024",None,38.12,0.15,Returned
+ORD-1161,Karan Mehta,karan.mehta82@example.com,East ,Clothing,"Dec 01, 2024",4,53.18,0.0,Completed
+ORD-1393,Neha Verma,neha.verma40@example.com,North ,Books,"Nov 13, 2024",8,36.41,0.15,Completed 
+ORD-1450,Vikram Rao,vikram.rao38@example.com,East,Books,11/08/2024,8,22.4,0.0,Completed
+ORD-1230,Rohan Gupta,rohan.gupta87@example.com,North,Clothing,12/06/2024,-3,85.81,0.1,Completed 
+ORD-1356,Rahul Khanna,rahul.khanna43@example.com,South,Clothing,2024-12-22,5,71.37,0.1,Completed
+ORD-1559,Karan Mehta,karan.mehta13@example.com,East,Sports,2024-03-26,9,96.84,0.05,Completed
+ORD-1114,-,anjali.jain25@example.com,South,Electronics,2024-01-11,4,523.0,0.2,Completed
+ORD-1522,Sneha Iyer,sneha.iyer72@example.com,East,Books,24/05/2024,7,28.61,0.2,Completed
+ORD-1585,Sneha Iyer,sneha.iyer78@example.com,North,Clothing,"Nov 10, 2024",4,$110.42,0.0,Completed
+ORD-1473,Pooja Nair,pooja.nair13@example.com,East,Clothing,2024-09-19,3,81.54,0.0,Completed
+ORD-1567,Pooja Nair,pooja.nair98@example.com,West,Electronics,"Sep 09, 2024",4,700.46,0.05,Cancelled
+ORD-1334,Aarav Sharma,aarav.sharma4@example.com,South,Electronics,2024-12-06,6,733.84,0.0,Completed
+ORD-1361,Anjali Jain,anjali.jain29@example.com,West,Clothing,"Aug 20, 2024",3,114.15,0.0,Completed
+ORD-1254,Neha Verma,neha.verma4@example.com,East,Clothing,"Jun 05, 2024",9,39.5,0.05,Completed
+ORD-1429,Vikram Rao,vikram.rao93@example.com,North,Clothing,11/08/2024,9,43.35,0.05,  Completed 
+ORD-1054,Neha Verma,neha.verma55@example.com,West,Sports,"Jun 14, 2024",2,117.62,0.15,Completed
+ORD-1120,Rohan Gupta,rohan.gupta9@example.com,north,Sports,2024-01-23,5,155.38,0.0,Completed
+ORD-1233,Rahul Khanna,rahul.khanna80@example.com,South,Hom,2024-12-11,5,146.1,0.1,Completed
+ORD-1390,Rohan Gupta,nan,West,Home,"Oct 14, 2024",4,191.06,0%,Pending
+ORD-1371,Rohan Gupta,rohan.gupta13@example.com,East,Books,"Mar 04, 2024",na,29.29,0.05,Completed
+ORD-1437,Priya Singh,priya.singh33@example.com,SOUTH,Sports,2024-10-11,8,65.03,0.05,Returned
+ORD-1024,Rahul Khanna,rahul.khanna38@example.com,South,Clothing,2024-01-11,5,119.02,0.05,completed
+ORD-1389,na,neha.verma34@example.com,South,Clothing,02/11/2024,7,,0.0,  Completed 
+ORD-1543,Rahul Khanna,rahul.khanna58@example.com,South,Clothing,"Nov 02, 2024",7,73.71,0.0,Completed
+ORD-1000,Vikram Rao,vikram.rao38@example.com,West,Clothing,2024-10-20,4,82.82,0.0,Completed
+ORD-1018,Pooja Nair,pooja.nair82@example.com,South ,Clothing,2024-10-01,1,50.79,na,Completed
+ORD-1392,Neha Verma,neha.verma59@example.com,North,Sports,25/10/2024,2,$120.27,10%,completed
+ORD-1284,Pooja Nair,pooja.nair78@example.com,East,Books,"Nov 21, 2024",2,37.17,0.2,COMPLETED
+ORD-1087,N/A,rahul.khanna35@example.com,North,Clothing,"Jun 20, 2024",3,,0.1,Completed
+ORD-1269,Anjali Jain,anjali.jain69@example.com,South,Home,2024-11-05,3,245.15,0.0,Pending
+ORD-1131,NEHA VERMA,neha.verma18@example.com,east,Books,"Sep 06, 2024",3,5.7,0.1,completed
+ORD-1360,Sneha Iyer,sneha.iyer71@example.com,South,Sports,2024-05-12,9,26.75,,Completed 
+ORD-1552,Pooja Nair,pooja.nair35@example.com,West,-,2024-03-16,8,$164.26,10%,Completed
+ORD-1384,Rohan Gupta,rohan.gupta85@example.com,  North ,Sports,11/04/2024,6,96.85,0.1,Cancelled
+ORD-1350,Vikram Rao,vikram.rao76@example.com,East,Books,"Apr 13, 2024",4,18.46,,Returned
+ORD-1594,Neha Verma,neha.verma22@example.com,North,Clothing,2024-06-04,8,na,None,Completed
+ORD-1168,Vikram Rao,na,  East ,Home,21/05/2024,5,293.8,0.1,Completed
+ORD-1218,Rahul Khanna,rahul.khanna62@example.com,East,Books,2024-03-15,8,10.63,20%,Completed
+ORD-1051,Karan Mehta,karan.mehta17@example.com,West,Clothing,na,1,71.07,-,Completed
+ORD-1251,Pooja Nair,pooja.nair92@example.com,East,Home,2024-09-05,5,na,nan,Completed
+ORD-1147,Rohan Gupta,rohan.gupta56@example.com,SOUTH,Sports,"Jul 24, 2024",na,143.53,0.0,Completed
+ORD-1510,Neha Verma,neha.verma23@example.com,North,Sports,17/10/2024,7,56.17,0.1,Completed
+ORD-1186,Sneha Iyer,sneha.iyer97@example.com,West,Electronics,2024-01-01,3,677.13,0.15,Completed
+ORD-1400,Sneha Iyer,sneha.iyer11@example.com,West,Clothing,"Jun 17, 2024",3,40.76,0.2,completed
+ORD-1193,Neha Verma,neha.verma10@example.com,West,Books,"Sep 26, 2024",7,39.75,0.1,completed
+ORD-1556,Neha Verma,neha.verma34@example.com,west,Books,17/12/2024,4,15.97,0.2,  Cancelled 
+ORD-1030,Rohan Gupta,rohan.gupta40@example.com,North,Clothing,03/08/2024,3,$57.15,0.0,Completed
+ORD-1066,N/A,karan.mehta46example.com,West,Clothing,"Jul 06, 2024",2,66.36,0.1,Completed
+ORD-1197,Priya Singh,priya.singh52@example.com,North,Clothing,18/05/2024,nan,$83.20,0.0,Completed
+ORD-1324,Vikram Rao,vikram.rao78@example.com,South,Home,"Dec 20, 2024",7,256.11,0.05,Completed
+ORD-1071,Aarav Sharma,aarav.sharma56@example.com,North,Books,"May 17, 2024",6,16.74,0.0,Completed
+ORD-1334,Aarav Sharma,aarav.sharma4@example.com,South,Electronics,2024-12-06,6,733.84,0.0,Completed
+ORD-1531,Pooja Nair,pooja.nair31@example.com,  South ,Electronics,01/02/2024,5,241.8,0.0,Cancelled
+ORD-1462,Rahul Khanna,rahul.khanna31@example.com,East,Sports,2024-08-19,5,51.75,0.0,Completed
+ORD-1288,Karan Mehta,karan.mehta5@example.com,East,Home,12/11/2024,2,122.48,0.0,Completed
+ORD-1505,Rahul Khanna,rahul.khanna42@example.com,EAST,Sports,"Aug 07, 2024",1,113.82,0.1,Completed
+ORD-1587,Neha Verma,None,  East ,Sports,09/12/2024,5,82.33,0.05,Completed
+ORD-1330,Vikram Rao,vikram.rao13@example.com,SOUTH,Clothng,22/09/2024,-3,37.48,0.0,Completed
+ORD-1533,Rahul Khanna,rahul.khanna23@example.com,North,Books,"Nov 01, 2024",2,39.89,0.05,Completed
+ORD-1015,Karan Mehta,karan.mehta44example.com,South,Electronics,2024-09-13,9,$416.34,0.0,Completed 
+ORD-1294,Karan Mehta,nan,West,Clothing,07/11/2024,6,None,0.0,  Completed 
+ORD-1268,Vikram Rao,vikram.rao91@example.com,East,Home,22/05/2024,6,257.22,0.05,Completed
+ORD-1571,Rohan Gupta,rohan.gupta16@example.com,EAST,Sports,N/A,9,40.87,0.15,Completed 
+ORD-1135,Sneha Iyer,sneha.iyer70@example.com,South,Bookz,25/07/2024,7,9.51,0.15,Completed
+ORD-1454,Rohan Gupta,None,East,Electronics,"Oct 14, 2024",4,258.9,0.1,  Completed 
+ORD-1181,Sneha Iyer,sneha.iyer46@example.com,West,Electronics,"Nov 09, 2024",5,na,0.05,Completed
+ORD-1227,Anjali Jain,anjali.jain87@example.com,EAST,Electronics,"Oct 20, 2024",8,330.12,0.0,Completed
+ORD-1404,Rohan Gupta,rohan.gupta70@example.com,south,Sports,2024-02-25,8,184.91,0.0,Completed
+ORD-1104,Anjali Jain,anjali.jain24@example.com,East,Clothing,"Dec 25, 2024",nan,54.83,-,Completed
+ORD-1346,Pooja Nair,pooja.nair20@example.com,North,Sports,2024-12-02,4,164.96,0.2,  Completed 
+ORD-1317,Neha Verma,neha.verma68@example.com,  North ,Sports,04/06/2024,-1,124.16,0.1,Completed
+ORD-1241,Anjali Jain,anjali.jain64@example.com,  South ,Sports,"May 03, 2024",8,126.12,0.0,Completed
+ORD-1492,Priya Singh,priya.singh17@example.com,North,Sports,21/12/2024,3,123.39,0.0,Completed
+ORD-1203,Aarav Sharma,aarav.sharma18@example.com,South,Sports,21/04/2024,3,178.71,0.2,Completed
+ORD-1575,Priya Singh,priya.singh44@example.com,South,Home,2024-01-04,7,58.62,0.05,Completed
+ORD-1083,Sneha Iyer,sneha.iyer21@example.com,East,Electronics,21/04/2024,3,352.79,0.15,Completed
+ORD-1118,Sneha Iyer,sneha.iyer61@example.com,South,Clothing,"Jul 14, 2024",7,na,0.0,Cancelled
+ORD-1583,Sneha Iyer,sneha.iyer64@example.com,South,Electronic,"May 25, 2024",6,850.2,0.2,Cancelled
+ORD-1166,Neha Verma,neha.verma66@example.com,West,Sports,2024-09-16,3,56.25,0.15,Completed
+ORD-1331,Neha Verma,neha.verma1@example.com,East,Clothing,21/07/2024,1,23.77,0.1,Cancelled
+ORD-1189,Vikram Rao,vikram.rao51@example.com,North,Clothing,03/05/2024,na,103.28,0.15,completed
+ORD-1584,Pooja Nair,pooja.nair41@example.com,West,Electronics,2024-01-12,5,180.44,0.0,  Completed 
+ORD-1534,Sneha Iyer,sneha.iyer28@example.com,South,Home,"Oct 20, 2024",6,114.5,0.0,Returned
+ORD-1092,Neha Verma,neha.verma12@example.com,  North ,Sports,"Aug 05, 2024",2,$21.03,0.0,Completed
+ORD-1261,None,rohan.gupta25@example.com,North,Home,na,4,84.89,0%,Completed
+ORD-1138,Aarav Sharma,aarav.sharma86@example.com,West,Books,2024-08-03,5,6.26,0.1,Completed
+ORD-1276,Karan Mehta,karan.mehta60@example.com,East,Electronics,13/02/2024,4,857.15,0.15,Completed
+ORD-1056,Vikram Rao,vikram.rao16@example.com,East,Home,"Nov 25, 2024",5,261.76,0.2,Completed
+ORD-1318,Karan Mehta,karan.mehta2@example.com,East,Clothing,2024-03-17,8,114.24,0.05,Returned
+ORD-1088,Aarav Sharma,aarav.sharma14@example.com,West,Electronics,"Jul 05, 2024",3,$209.46,0.1,COMPLETED
+ORD-1430,Karan Mehta,karan.mehta75@example.com,  East ,Sports,2024-11-06,6,168.15,,Completed
+ORD-1482,Pooja Nair,pooja.nair71@example.com,South,Clothing,2024-07-21,7,$97.67,0%,Completed
+ORD-1280,Karan Mehta,karan.mehta21@example.com,south,Home,24/10/2024,-,209.49,0.0,Completed
+ORD-1139,Pooja Nair,pooja.nair74@example.com,East ,Electronics,16/12/2024,9,295.03,N/A,Cancelled
+ORD-1312,Pooja Nair,pooja.nair37example.com,South,Sports,27/09/2024,4,108.25,0.15,Pending 
+ORD-1287,Karan Mehta,karan.mehta83@example.com,West,Home,"Sep 04, 2024",None,41.67,0.05,COMPLETED
+ORD-1329,nan,rohan.gupta76@example.com,South,Books,"Apr 09, 2024",8,23.25,-,Completed
+ORD-1023,Anjali Jain,anjali.jain10@example.com,south,Electronics,2024-01-19,2,618.44,0.05,Completed
+ORD-1164,Rohan Gupta,rohan.gupta83@example.com,East,Clothing,"Sep 07, 2024",8,19.06,0.05,COMPLETED
+ORD-1311,ROHAN GUPTA,rohan.gupta80@example.com,-,Electronics,08/06/2024,9,$669.91,0.05,Completed
+ORD-1586,Rohan Gupta,rohan.gupta62@example.com,NORTH,Books,2024-12-15,-3,,0.0,Completed
+ORD-1128,Aarav Sharma,aarav.sharma2@example.com,West,Books,2024-04-22,2,14.02,0.0,Returned
+ORD-1141,PRIYA SINGH,priya.singh51example.com,south,Clothing,"Sep 14, 2024",4,63.51,0.1,  Completed 
+ORD-1240,Aarav Sharma,aarav.sharma12@example.com,West,Home,2024-06-04,2,208.73,0.05,Completed
+ORD-1342,Anjali Jain,anjali.jain4@example.com,South,Home,2024-11-15,,119.86,0.0,COMPLETED
+ORD-1464,Rahul Khanna,rahul.khanna57@example.com,WEST,Clothing,14/11/2024,8,39.24,0.15,Cancelled
+ORD-1262,Rahul Khanna,rahul.khanna94@example.com,East,Books,2024-03-14,8,5.48,0.0,Completed
+ORD-1098,Priya Singh,priya.singh59@example.com,West,Books,"Jan 09, 2024",-8,12.79,0.1,Completed
+ORD-1448,Neha Verma,neha.verma25@example.com,South,Electronics,13/09/2024,6,379.16,0.2,Completed
+ORD-1477,Vikram Rao,vikram.rao3@example.com,East,Books,"Sep 09, 2024",2,14.96,0.0,Completed
+ORD-1564,Rahul Khanna,rahul.khanna51@example.com,NORTH,Books,"May 26, 2024",4,31.82,5%,COMPLETED
+ORD-1470,Priya Singh,priya.singh89@example.com,EAST,Sports,2024-01-07,4,137.25,0.0,Completed
+ORD-1202,Rohan Gupta,rohan.gupta98@example.com,,Clothing,19/09/2024,7,31.99,0.05,Pending
+ORD-1003,nan,rahul.khanna60@example.com,South,Sports,21/04/2024,7,52.54,0.2,Completed
+ORD-1425,Sneha Iyer,sneha.iyer22@example.com,West,Books,2024-12-26,3,6.23,0.0,Completed
+ORD-1373,Priya Singh,priya.singh53@example.com,East,Clothing,25/12/2024,8,43.36,0.1,Pending
+ORD-1491,Priya Singh,priya.singh28@example.com,East,Clothing,2024-05-17,8,46.37,0.1,Pending
+ORD-1146,Karan Mehta,karan.mehta67@example.com,North,Electronics,"Feb 24, 2024",3,-,0.15,Completed 
+ORD-1333,Rahul Khanna,rahul.khanna6@example.com,South,Books,"Apr 07, 2024",4,30.19,0.2,Cancelled
+ORD-1019,Pooja Nair,pooja.nair42@example.com,na,Books,2024-12-08,5,11.67,0.2,COMPLETED
+ORD-1458,Aarav Sharma,aarav.sharma26@example.com,,Home,12/11/2024,na,264.92,0.0,Pending
+ORD-1260,Aarav Sharma,aarav.sharma71@example.com,South,Sports,19/02/2024,9,78.59,0.0,completed
+ORD-1298,Sneha Iyer,sneha.iyer70@example.com,East,Electronics,"Nov 15, 2024",7,775.92,0.1,Completed
+ORD-1475,Karan Mehta,karan.mehta33@example.com,South,Books,2024-10-21,6,N/A,0.1,Completed
+ORD-1404,Rohan Gupta,rohan.gupta70@example.com,south,Sports,2024-02-25,8,184.91,0.0,Completed
+ORD-1190,-,aarav.sharma93@example.com,South,Clothing,"Apr 02, 2024",1,17.47,0.05,Completed
+ORD-1411,Rohan Gupta,rohan.gupta73@example.com,North,Sports,25/10/2024,6,89.88,0.0,Cancelled
+ORD-1455,Rohan Gupta,rohan.gupta50@example.com,South,Books,2024-07-07,2,14.09,0.0,Returned
+ORD-1196,Neha Verma,neha.verma69@example.com,South,Electronics,2024-01-15,3,462.35,0.05,Completed
+ORD-1140,Pooja Nair,pooja.nair2@example.com,South ,Electronics,"Nov 15, 2024",3,350.83,0.1,COMPLETED
+ORD-1082,Sneha Iyer,sneha.iyer31@example.com,South,Books,"Sep 20, 2024",8,28.7,0.0,Completed
+ORD-1134,VIKRAM RAO,vikram.rao22@example.com,south,Electronics,25/12/2024,1,731.66,15%,completed
+ORD-1546,Rahul Khanna,rahul.khanna62@example.com,East ,Electronics,"May 07, 2024",9,287.21,0.05,Completed
+ORD-1409,Rohan Gupta,rohan.gupta41@example.com,South,Sports,2024-11-22,4,$135.46,0.0,Completed
+ORD-1084,Aarav Sharma,aarav.sharma20@example.com,South,Sports,"Dec 26, 2024",-9,87.08,0.2,Completed
+ORD-1357,Priya Singh,priya.singh59@example.com,  West ,Home,"Aug 26, 2024",7,N/A,0.0,Cancelled
+ORD-1509,Aarav Sharma,aarav.sharma83@example.com,North,Sports,"Jun 27, 2024",4,36.69,0.05,Completed
+ORD-1179,Sneha Iyer,sneha.iyer4@example.com,West,Books,2024-03-27,8,28.16,0.05,completed
+ORD-1099,Vikram Rao,vikram.rao59@example.com,West,Clothing,"Mar 26, 2024",nan,5344.5,0.15,Completed
+ORD-1366,Karan Mehta,karan.mehta75@example.com,East,Sports,10/07/2024,7,148.37,0.05,Completed 
+ORD-1074,-,None,South,Home,2024-03-16,2,-,0.05,Pending
+ORD-1007,Rahul Khanna,rahul.khanna41@example.com,west,Books,03/11/2024,5,39.77,0.2,Completed
+ORD-1432,Karan Mehta,karan.mehta31@example.com,South,Clothing,03/09/2024,6,46.83,0.1,Pending
+ORD-1273,Vikram Rao,vikram.rao68@example.com,East,Bookz,15/12/2024,1,26.7,-,Completed
+ORD-1279,Karan Mehta,nan,South,Electronics,"Nov 04, 2024",4,800.86,0.0,Completed
+ORD-1154,Sneha Iyer,sneha.iyer59@example.com,South,Books,"Oct 23, 2024",2,25.19,0.2,Completed
+ORD-1410,Vikram Rao,vikram.rao3@example.com,  West ,Clothing,"Oct 19, 2024",5,78.24,5%,Completed
+ORD-1191,Pooja Nair,pooja.nair51@example.com,East,Home,"Sep 16, 2024",2,102.52,0.0,Completed
+ORD-1578,Karan Mehta,karan.mehta37@example.com,West,Books,2024-11-06,2,17.97,0.0,Completed
+ORD-1232,Neha Verma,neha.verma31@example.com,WEST,Home,2024-12-21,4,260.21,0.05,completed
+ORD-1469,Rohan Gupta,rohan.gupta2@example.com,West,Clothing,2024-10-06,8,na,0.0,cancelled
+ORD-1050,Anjali Jain,anjali.jain49@example.com,East,Home,2024-06-12,2,248.11,0.0,Completed
+ORD-1038,Neha Verma,neha.verma56@example.com,East,Electronics,2024-11-02,3,551.12,0.05,Completed
+ORD-1208,Sneha Iyer,sneha.iyer64@example.com,  North ,Sports,27/12/2024,2,36.71,,Cancelled
+ORD-1005,Sneha Iyer,sneha.iyer13@example.com,  West ,Home,10/12/2024,2,106.06,0.0,Completed
+ORD-1075,Karan Mehta,karan.mehta32@example.com,West,Books,2024-11-17,2,10.75,0.0,Completed
+ORD-1248,Rahul Khanna,rahul.khanna56@example.com,East,Electronics,2024-11-11,8,227.25,0.05,Completed
+ORD-1047,Priya Singh,priya.singh17@example.com,North,Sports,08/09/2024,2,$167.04,0.1,Completed
+ORD-1302,Neha Verma,neha.verma63@example.com,South,Clothing,"Nov 17, 2024",3,87.84,0.1,Completed
+ORD-1070,Rahul Khanna,rahul.khanna30@example.com,North,Electronics,2024-10-23,3,510.72,0.0,Cancelled
+ORD-1468,Anjali Jain,anjali.jain5@example.com,West,Clothing,"Jul 22, 2024",9,64.39,0.1,Cancelled
+ORD-1483,Vikram Rao,vikram.rao53@example.com,East,Home,"Dec 11, 2024",1,114.34,0.1,Cancelled
+ORD-1225,Aarav Sharma,aarav.sharma66@example.com,East,Sports,"Feb 15, 2024",-9,114.75,N/A,Completed
+ORD-1286,Neha Verma,None,West,Electronics,"May 23, 2024",4,297.19,0.0,Completed
+ORD-1011,Rohan Gupta,rohan.gupta93@example.com,North ,Sports,"May 05, 2024",4,164.54,nan,Completed
+ORD-1406,Karan Mehta,karan.mehta50@example.com,east,Electronics,2024-09-10,4,545.7,0.2,Cancelled
+ORD-1150,Rohan Gupta,rohan.gupta86@example.com,East,Electronics,2024-05-22,9,700.98,0.05,Completed
+ORD-1493,Anjali Jain,nan,  North ,na,"Aug 16, 2024",8,146.56,0.05,Completed
+ORD-1115,Anjali Jain,anjali.jain73@example.com,South,Electronics,08/11/2024,6,298.19,0.0,cancelled
+ORD-1281,Aarav Sharma,aarav.sharma39@example.com,  South ,Clothing,2024-06-10,6,39.36,0.05,COMPLETED
+ORD-1253,Sneha Iyer,sneha.iyer87@example.com,North,Books,2024-05-23,3,33.97,0.1,Completed
+ORD-1195,Aarav Sharma,aarav.sharma1@example.com,North ,Home,16/10/2024,3,42.72,0.05,Completed
+ORD-1597,Anjali Jain,anjali.jain41@example.com,East,Clothing,17/11/2024,7,103.72,0.1,  Completed 
+ORD-1065,nan,rohan.gupta14@example.com,West,N/A,03/05/2024,5,262.88,0.1,Completed
+ORD-1415,-,rahul.khanna20@example.com,South ,Home,08/10/2024,3,253.32,0.05,Cancelled
+ORD-1446,Priya Singh,priya.singh93@example.com,North,Clothing,2024-11-02,9,32.45,0.2,Completed
+ORD-1219,Karan Mehta,karan.mehta96@example.com,South,Home,"Nov 17, 2024",1,109.73,0.0,Pending
+ORD-1369,Priya Singh,priya.singh76@example.com,North,Home,2024-04-19,7,$43.41,0.15,Completed
+ORD-1386,Neha Verma,neha.verma83@example.com,South,Clothing,N/A,6,44.88,0.0,Completed
+ORD-1069,Karan Mehta,karan.mehta93@example.com,South,Sports,2024-04-21,5,67.49,0.05,Cancelled
+ORD-1093,Neha Verma,neha.verma95@example.com,West,Books,2024-09-19,7,13.05,0.05,Completed
+ORD-1068,Pooja Nair,pooja.nair28@example.com,North,Clothing,"Dec 21, 2024",7,3171.0,na,Completed
+ORD-1021,Anjali Jain,anjali.jain82@example.com,None,Clothing,25/03/2024,1,29.43,0.15,Completed
+ORD-1077,Sneha Iyer,sneha.iyer18@example.com,West,Sports,2024-12-13,6,103.39,0%,Pending
+ORD-1478,Pooja Nair,pooja.nair27@example.com,West,Books,None,5,23.43,0.0,Cancelled
+ORD-1465,Neha Verma,neha.verma59@example.com,North,Sports,2024-06-09,9,49.15,0.05,cancelled
+ORD-1236,Karan Mehta,karan.mehta88@example.com,North,Electronics,12/10/2024,8,329.2,,Pending
+ORD-1451,Rahul Khanna,rahul.khanna74@example.com,EAST,Clothing,"Oct 22, 2024",6,30.31,0.05,  Completed 
+ORD-1314,Karan Mehta,karan.mehta76@example.com,NORTH,Books,"Jun 24, 2024",1,17.24,0.05,Completed
+ORD-1125,Karan Mehta,,West,Clothing,2024-04-05,9,31.5,0.1,CANCELLED
+ORD-1228,Pooja Nair,pooja.nair30@example.com,West,Sports,2024-11-09,9,87.21,0.0,Completed
+ORD-1445,Anjali Jain,anjali.jain85@example.com,SOUTH,Home,21/07/2024,2,64.46,10%,Completed
+ORD-1042,Priya Singh,priya.singh86@example.com,North,Books,2024-08-07,1,$11.68,0.15,Completed 
+ORD-1004,Priya Singh,priya.singh20@example.com,South ,Home,"May 03, 2024",2,113.42,0.05,Completed
+ORD-1377,Neha Verma,neha.verma11@example.com,  East ,Clothing,"Aug 03, 2024",5,58.07,0.0,completed
+ORD-1494,Rohan Gupta,nan,North,Home,21/10/2024,9,238.92,0.05,  Pending 
+ORD-1064,Rahul Khanna,rahul.khanna28@example.com,West,na,14/07/2024,9,N/A,0.0,Pending
+ORD-1039,Sneha Iyer,sneha.iyer10@example.com,South,Home,"Mar 19, 2024",3,51.79,0.15,COMPLETED
+ORD-1109,Karan Mehta,karan.mehta19@example.com,North,Sports,13/08/2024,4,71.67,0.2,Completed
+ORD-1255,Anjali Jain,anjali.jain92@example.com,  West ,Clothing,"Aug 25, 2024",5,18.34,0.1,Completed
+ORD-1572,N/A,anjali.jain85@example.com,South,Clothing,27/12/2024,3,na,0.0,Returned
+ORD-1374,Priya Singh,priya.singh92@example.com,East,Sports,"Apr 27, 2024",8,161.33,0.05,  Completed 
+ORD-1205,Aarav Sharma,aarav.sharma84@example.com,  South ,Books,"Jan 16, 2024",3,30.6,0.15,Completed
+ORD-1430,Karan Mehta,karan.mehta75@example.com,  East ,Sports,2024-11-06,6,168.15,,Completed
+ORD-1147,Rohan Gupta,rohan.gupta56@example.com,SOUTH,Sports,"Jul 24, 2024",na,143.53,0.0,Completed
+ORD-1006,Karan Mehta,karan.mehta22@example.com,West,Electronics,15/01/2024,4,716.69,0.05,Returned
+ORD-1512,Pooja Nair,pooja.nair23@example.com,WEST,Sports,2024-02-13,8,6710.0,0.0,Completed
+ORD-1290,Rohan Gupta,rohan.gupta44@example.com,South,Electronics,08/03/2024,6,313.75,0.0,  Cancelled 
+ORD-1417,Rahul Khanna,rahul.khanna96@example.com,South,Clothing,13/06/2024,1,112.0,0.1,Completed
+ORD-1449,Vikram Rao,vikram.rao94@example.com,South,Sports,19/11/2024,9,N/A,0.15,Completed
+ORD-1407,Rohan Gupta,rohan.gupta90@example.com,South,Sports,"Nov 12, 2024",3,$153.72,0.0,Pending
+ORD-1429,Vikram Rao,vikram.rao93@example.com,North,Clothing,11/08/2024,9,43.35,0.05,  Completed 
+ORD-1549,Pooja Nair,pooja.nair65@example.com,West,Home,"Mar 12, 2024",3,30.88,0.2,Completed
+ORD-1550,Karan Mehta,karan.mehta82@example.com,NORTH,Clothing,2024-07-25,4,97.53,,Completed
+ORD-1259,Aarav Sharma,na,West,Home,"May 09, 2024",5,32.21,0.2,Completed
+ORD-1282,Aarav Sharma,aarav.sharma61@example.com,north,Clothing,"Feb 16, 2024",1,74.53,0.05,Completed
+ORD-1122,Karan Mehta,karan.mehta62@example.com,North,Clothing,17/11/2024,-5,100.18,na,Pending
+ORD-1078,Sneha Iyer,sneha.iyer12@example.com,North,Clothing,2024-09-20,3,115.41,0.15,Completed
+ORD-1577,Karan Mehta,karan.mehta39@example.com,east,Sports,2024-09-18,N/A,nan,0.15,Completed 
+ORD-1320,Rahul Khanna,rahul.khanna14@example.com,EAST,Sports,07/12/2024,4,$165.61,0.1,Returned
+ORD-1599,Neha Verma,neha.verma85@example.com,South,Sports,2024-07-03,8,28.29,None,Returned
+ORD-1151,Vikram Rao,vikram.rao84@example.com,East,Home,22/11/2024,1,$224.93,0.05,Completed
+ORD-1375,Pooja Nair,nan,  West ,Home,2024-12-03,1,265.74,0.1,Returned
+ORD-1299,Vikram Rao,vikram.rao27@example.com,SOUTH,Clothng,2024-07-05,7,30.02,0.1,  Completed 
+ORD-1459,Anjali Jain,anjali.jain40@example.com,South,Electronics,2024-06-09,5,526.4,0.05,Completed
+ORD-1526,Rahul Khanna,rahul.khanna15@example.com,West,Clothing,08/04/2024,6,22.94,0.1,completed
+ORD-1163,Karan Mehta,karan.mehta97@example.com,South,Sports,"Mar 15, 2024",9,98.74,0%,Completed
+ORD-1527,Rahul Khanna,rahul.khanna17@example.com,North,Home,2024-12-10,9,65.96,0.05,completed
+ORD-1396,Neha Verma,neha.verma58@example.com,East,Sports,"Nov 12, 2024",9,$143.70,0.1,  Completed 
+ORD-1325,Rohan Gupta,rohan.gupta48@example.com,South ,Home,08/03/2024,4,$293.26,0.1,  Cancelled 
+ORD-1403,Vikram Rao,vikram.rao90@example.com,West,Home,2024-08-05,-,200.27,0.0,Completed
+ORD-1265,Anjali Jain,anjali.jain42@example.com,North,Sports,"Feb 25, 2024",3,181.99,0.0,Completed
+ORD-1558,Pooja Nair,pooja.nair87@example.com,West,Books,2024-04-11,7,12.36,0.2,Returned
+ORD-1514,Anjali Jain,anjali.jain45@example.com,West,Sports,02/11/2024,2,28.01,0.0,Completed
+ORD-1424,Neha Verma,neha.verma49@example.com,South,Home,11/01/2024,8,252.64,0.15,  Pending 
+ORD-1530,Anjali Jain,anjali.jain66example.com,na,Books,"May 26, 2024",-,31.79,0.0,Cancelled
+ORD-1301,Karan Mehta,karan.mehta62@example.com,South,N/A,2024-04-13,999,119.99,0.1,Completed
+ORD-1278,Priya Singh,priya.singh53@example.com,West,Home,"Nov 19, 2024",2,53.3,na,Completed
+ORD-1143,Pooja Nair,pooja.nair62@example.com,South,Home,"Dec 03, 2024",9,175.5,0.0,Completed
+ORD-1472,Sneha Iyer,sneha.iyer52@example.com,West,Electronics,2024-12-27,5,814.35,0.05,Completed
+ORD-1485,Aarav Sharma,aarav.sharma32@example.com,East,Clothing,2024-07-16,999,16.95,0.0,Cancelled
+ORD-1199,Pooja Nair,pooja.nair50@example.com,south,Electronics,09/09/2024,2,779.77,0%,Cancelled
+ORD-1041,Priya Singh,priya.singh48@example.com,west,Clothing,2024-12-06,5,21.62,0.0,Cancelled
+ORD-1463,N/A,None,North,Books,2024-06-11,9,$22.36,0.0,Completed 
+ORD-1580,Sneha Iyer,sneha.iyer60@example.com,North,Electronics,"Dec 08, 2024",2,305.7,0.1,Completed
+ORD-1523,Karan Mehta,karan.mehta93@example.com,East,Sports,"Aug 17, 2024",3,48.37,0.1,Completed
+ORD-1364,Aarav Sharma,aarav.sharma76@example.com,South,Books,2024-10-23,2,$33.72,0.0,Completed
+ORD-1231,Rohan Gupta,rohan.gupta13@example.com,North,Clothing,08/11/2024,7,117.08,0.1,Completed 
+ORD-1245,Neha Verma,neha.verma74example.com,South,Home,2024-06-25,1,190.99,0.05,Completed
+ORD-1433,,pooja.nair90@example.com,South,Home,13/09/2024,6,179.53,0.2,COMPLETED
+ORD-1313,Neha Verma,neha.verma90@example.com,West,Books,"Nov 02, 2024",1,$14.83,0.1,Completed 
+ORD-1167,Anjali Jain,anjali.jain50@example.com,North,Electronics,"Oct 21, 2024",9,159.31,0.1,Completed
+ORD-1332,Priya Singh,priya.singh86@example.com,East,Electronics,"Nov 21, 2024",5,$479.20,0.1,Completed
+ORD-1158,Sneha Iyer,sneha.iyer9example.com,North ,Home,26/04/2024,6,169.8,20%,Cancelled
+ORD-1501,Pooja Nair,pooja.nair9@example.com,North,Clothing,27/11/2024,9,66.72,0.2,Pending
+ORD-1263,Pooja Nair,pooja.nair90@example.com,North,Clothing,"Mar 13, 2024",3,67.4,0.15,Completed
+ORD-1426,Aarav Sharma,-,nan,Books,2024-08-18,8,15.19,5%,  Cancelled 
+ORD-1029,Rohan Gupta,rohan.gupta87@example.com,EAST,Books,01/08/2024,8,7.33,0.05,completed
+ORD-1238,Rohan Gupta,rohan.gupta68@example.com,West,Sports,2024-09-05,na,32.36,0%,Completed
+ORD-1250,Anjali Jain,anjali.jain49@example.com,  East ,Clothing,20/06/2024,7,107.99,,Completed
+ORD-1162,Aarav Sharma,aarav.sharma72@example.com,North,Books,14/11/2024,1,32.33,15%,  Completed 
+ORD-1149,Karan Mehta,karan.mehta36@example.com,SOUTH,Home,13/12/2024,4,220.91,0.0,Completed
+ORD-1226,Aarav Sharma,aarav.sharma67@example.com,West,Books,23/10/2024,5,15.94,0.15,Pending
+ORD-1353,Rohan Gupta,rohan.gupta21example.com,West,Electronics,2024-08-12,1,398.44,na,Returned
+ORD-1455,Rohan Gupta,rohan.gupta50@example.com,South,Books,2024-07-07,2,14.09,0.0,Returned
+ORD-1593,Rohan Gupta,rohan.gupta54@example.com,North,Clothing,"Sep 19, 2024",None,107.08,0.05,Returned
+ORD-1094,Sneha Iyer,sneha.iyer22@example.com,south,Books,04/06/2024,6,$36.38,0.05,Completed
+ORD-1440,Karan Mehta,karan.mehta52@example.com,na,Clothing,"Sep 20, 2024",3,55.55,0.1,Cancelled
+ORD-1152,ANJALI JAIN,anjali.jain8@example.com,south ,Home,2024-10-10,-,48.48,0.15,COMPLETED
+ORD-1221,Anjali Jain,anjali.jain1@example.com,West,Electronics,"Apr 23, 2024",3,336.14,0.0,  Returned 
+ORD-1085,Neha Verma,neha.verma12@example.com,West,Home,18/10/2024,7,30.72,0.1,Completed
+ORD-1388,Vikram Rao,vikram.rao69@example.com,EAST,None,"Nov 24, 2024",1,31.37,5%,Cancelled
+ORD-1187,Rohan Gupta,rohan.gupta37@example.com,West,Home,2024-01-05,N/A,134.33,0.1,Completed
+ORD-1089,Sneha Iyer,sneha.iyer62@example.com,  East ,Clothing,11/05/2024,6,2407.0,0.05,completed
+ORD-1446,Priya Singh,priya.singh93@example.com,North,Clothing,2024-11-02,9,32.45,0.2,Completed
+ORD-1034,,aarav.sharma17@example.com,NORTH,Electronics,03/10/2024,3,291.13,0.1,completed
+ORD-1217,Sneha Iyer,sneha.iyer94@example.com,West,Home,"Nov 05, 2024",6,139.55,0.05,Completed
+ORD-1072,Sneha Iyer,sneha.iyer19@example.com,North,Books,25/12/2024,8,31.85,0.1,Completed
+ORD-1305,Rohan Gupta,rohan.gupta39@example.com,North,Books,14/07/2024,6,13.43,0.0,Completed
+ORD-1220,Karan Mehta,karan.mehta53@example.com,EAST,Sports,"Dec 24, 2024",999,$67.68,None,COMPLETED
+ORD-1488,Vikram Rao,vikram.rao12@example.com,East,Sports,"Dec 18, 2024",3,66.32,0.0,Completed 
+ORD-1200,Rohan Gupta,rohan.gupta63@example.com,North,Books,17/11/2024,9,11.88,0.1,Completed 
+ORD-1395,Rahul Khanna,rahul.khanna2@example.com,East,Books,2024-03-16,4,23.17,0.0,  Completed 
+ORD-1394,Rohan Gupta,rohan.gupta55@example.com,North,Electronics,2024-05-23,4,350.55,0.0,  Completed 
+ORD-1110,Neha Verma,neha.verma10@example.com,West,Books,02/11/2024,nan,18.45,0.15,Pending
+ORD-1367,Priya Singh,priya.singh60@example.com,West,Electronics,2024-11-27,-1,770.42,0.2,Completed
+ORD-1412,Rahul Khanna,rahul.khanna9@example.com,South,-,02/12/2024,4,578.71,0.0,Completed
+ORD-1012,Karan Mehta,karan.mehta95@example.com,South,Sports,08/05/2024,1,,0.15,PENDING
+ORD-1551,Aarav Sharma,aarav.sharma94@example.com,East,Electronics,06/10/2024,2,650.57,0.0,Completed
+ORD-1343,Rohan Gupta,rohan.gupta82@example.com,East,Electronics,-,-1,497.13,5%,Completed
+ORD-1198,Rahul Khanna,rahul.khanna26@example.com,North,Books,22/12/2024,7,10.37,0.0,COMPLETED
+ORD-1213,Sneha Iyer,sneha.iyer15@example.com,North ,Home,"Oct 16, 2024",1,155.04,0.0,Completed
+ORD-1415,-,rahul.khanna20@example.com,South ,Home,08/10/2024,3,253.32,0.05,Cancelled
+ORD-1234,Pooja Nair,pooja.nair25@example.com,  East ,Books,19/03/2024,3,20.81,None,Completed
+ORD-1598,Sneha Iyer,sneha.iyer12@example.com,East,Home,01/10/2024,N/A,-,0.05,Completed
+ORD-1420,Pooja Nair,pooja.nair30@example.com,South,Sports,2024-09-14,5,$103.45,0.0,Cancelled
+ORD-1431,Aarav Sharma,aarav.sharma13@example.com,south,Clothing,21/02/2024,5,40.68,0.0,Completed
+ORD-1329,nan,rohan.gupta76@example.com,South,Books,"Apr 09, 2024",8,23.25,-,Completed
+ORD-1216,nan,priya.singh44@example.com,East,Electronics,05/12/2024,6,490.94,0.05,Pending
+ORD-1096,Anjali Jain,anjali.jain89@example.com,west,Sports,"Jan 04, 2024",7,133.23,0.0,Completed
+ORD-1461,Aarav Sharma,aarav.sharma3@example.com,West ,na,2024-11-21,2,$61.75,0.15,Completed
+ORD-1449,VIKRAM RAO,vikram.rao94@example.com,south,Sports,19/11/2024,9,N/A,0.15,Completed
+ORD-1297,Vikram Rao,vikram.rao93@example.com,East,Books,2024-11-24,6,37.49,0.0,Completed
+ORD-1063,-,sneha.iyer76@example.com,West,Clothing,23/03/2024,1,105.11,0.15,  Cancelled 
+ORD-1222,-,rahul.khanna17@example.com,East ,Books,"Sep 16, 2024",999,32.4,0.0,Completed
+ORD-1452,Aarav Sharma,aarav.sharma34@example.com,North,Electronics,"Nov 14, 2024",999,715.68,10%,COMPLETED
+ORD-1095,Sneha Iyer,sneha.iyer78@example.com,South,Books,2024-11-11,4,34.92,0.0,  Completed 
+ORD-1013,Pooja Nair,pooja.nair32@example.com,North,Home,09/07/2024,5,190.63,0.1,Returned
+ORD-1327,Rahul Khanna,rahul.khanna88@example.com,South,Clothing,01/12/2024,2,117.61,0.0,Returned
+ORD-1435,Rahul Khanna,rahul.khanna17@example.com,North,Sports,13/01/2024,nan,178.41,0.0,Completed
+ORD-1017,Vikram Rao,vikram.rao96@example.com,West,Books,2024-11-26,6,$35.25,0.0,completed
+ORD-1547,Rohan Gupta,rohan.gupta96example.com,east,Bookz,2024-07-26,7,16.32,0.05,Returned 
+ORD-1536,Rohan Gupta,rohan.gupta17@example.com,  West ,Clothing,2024-03-05,9,37.05,0.0,Completed
+ORD-1246,Priya Singh,priya.singh15@example.com,SOUTH,Books,"Mar 17, 2024",4,8.19,,Completed
+ORD-1570,Sneha Iyer,sneha.iyer59@example.com,South,Electronics,2024-11-23,8,673.87,0.15,Completed
+ORD-1348,Rahul Khanna,rahul.khanna18@example.com,West,Electronics,"May 14, 2024",8,501.5,0.0,Cancelled 
+ORD-1207,Rahul Khanna,rahul.khanna27@example.com,West,Electronics,"Dec 22, 2024",1,$341.21,0.2,  Completed 
+ORD-1090,Rahul Khanna,rahul.khanna58@example.com,north,Home,2024-01-14,9,117.26,0%,Cancelled 
+ORD-1307,Rohan Gupta,rohan.gupta69@example.com,west,Electronics,2024-07-05,9,281.8,0.1,COMPLETED
+ORD-1341,Rahul Khanna,rahul.khanna35@example.com,North,Electronics,24/05/2024,9,702.33,0.0,Completed
+ORD-1380,Aarav Sharma,aarav.sharma82example.com,South,Clothing,02/01/2024,5,39.31,0.15,Completed
+ORD-1344,Aarav Sharma,aarav.sharma97@example.com,None,Home,11/02/2024,1,255.34,0.0,Completed 
+ORD-1471,Vikram Rao,vikram.rao93@example.com,West,Sports,03/06/2024,5,195.55,0.1,Completed
+ORD-1521,Priya Singh,priya.singh82@example.com,South,Clothing,"Oct 15, 2024",7,80.67,0.15,COMPLETED
+ORD-1032,Sneha Iyer,sneha.iyer30@example.com,South,Books,26/01/2024,4,29.07,0.0,COMPLETED
+ORD-1548,Sneha Iyer,sneha.iyer28@example.com,  North ,None,"Aug 27, 2024",5,$34.81,0.0,Completed
+ORD-1172,Rohan Gupta,rohan.gupta49@example.com,East,Home,"Oct 08, 2024",-6,44.42,0.1,completed
+ORD-1553,Aarav Sharma,aarav.sharma68@example.com,North,Electronics,"Mar 20, 2024",1,202.16,0.05,completed
+ORD-1554,Aarav Sharma,aarav.sharma51@example.com,West,Clothing,25/03/2024,2,92.18,0.1,Completed
+ORD-1408,Neha Verma,,SOUTH,Sports,"May 18, 2024",1,185.03,0.05,  Completed 
+ORD-1541,Karan Mehta,karan.mehta87@example.com,West,Clothing,"Oct 09, 2024",1,102.92,0.15,Completed
+ORD-1589,Rohan Gupta,rohan.gupta31@example.com,North,Sports,03/10/2024,5,168.47,0.0,returned
+ORD-1200,Rohan Gupta,rohan.gupta63@example.com,North,Books,17/11/2024,9,11.88,0.1,Completed 
+ORD-1292,Priya Singh,priya.singh85@example.com,East,Books,24/11/2024,4,39.02,0.0,Completed
+ORD-1565,Pooja Nair,,North,Clothing,2024-11-03,2,67.53,None,Completed
+ORD-1510,Neha Verma,neha.verma23@example.com,North,Sports,17/10/2024,7,56.17,0.1,Completed
+ORD-1596,Sneha Iyer,sneha.iyer40@example.com,East ,Electronics,"Jan 19, 2024",9,166.98,0.05,Completed
+ORD-1576,Aarav Sharma,aarav.sharma36@example.com,East,Home,19/10/2024,4,206.11,0.0,Completed
+ORD-1250,Anjali Jain,anjali.jain49@example.com,  East ,Clothing,20/06/2024,7,107.99,,Completed
+ORD-1489,Priya Singh,priya.singh78@example.com,North,Clothing,"Dec 10, 2024",None,114.28,0.2,Completed
+ORD-1573,Vikram Rao,vikram.rao13@example.com,East,Sports,2024-12-01,4,100.66,N/A,Completed
+ORD-1569,Neha Verma,neha.verma60@example.com,North,Home,01/07/2024,9,83.4,0.0,Cancelled
+ORD-1133,Priya Singh,priya.singh10@example.com,East,Electronics,"May 20, 2024",6,711.08,0.0,Completed
+ORD-1060,Anjali Jain,anjali.jain95@example.com,West,Clothing,"Sep 16, 2024",7,nan,0.05,Pending
+ORD-1026,Neha Verma,neha.verma9@example.com,East,Sports,06/08/2024,5,85.88,0.0,Completed
+ORD-1100,Karan Mehta,karan.mehta81@example.com,North,Books,N/A,3,31.63,0.1,Cancelled
+ORD-1531,Pooja Nair,pooja.nair31@example.com,  South ,Electronics,01/02/2024,5,241.8,0.0,Cancelled
+ORD-1520,Karan Mehta,karan.mehta41@example.com,  East ,Clothing,"Jun 22, 2024",8,100.9,0.2,Completed
+ORD-1363,Vikram Rao,vikram.rao30@example.com,East,Sports,13/08/2024,1,42.63,0.1,Completed
+ORD-1309,Rahul Khanna,rahul.khanna36@example.com,East ,Books,2024-11-04,3,36.06,0.05,completed
+ORD-1252,Rahul Khanna,rahul.khanna49@example.com,South,Home,"Apr 17, 2024",8,274.07,0.0,Cancelled 
+ORD-1544,Anjali Jain,anjali.jain28@example.com,South,Clothing,2024-11-14,2,52.8,5%,Returned
+ORD-1481,Vikram Rao,vikram.rao40@example.com,North,Clothing,2024-05-01,1,None,0.0,completed
+ORD-1441,Rahul Khanna,rahul.khanna97@example.com,North ,Home,"Apr 04, 2024",1,239.53,0.1,Cancelled 
+ORD-1476,Vikram Rao,vikram.rao11@example.com,  South ,Home,"Oct 09, 2024",8,$245.70,0.0,  Completed 
+ORD-1022,Neha Verma,neha.verma37@example.com,West,Home,20/09/2024,4,259.82,0.0,cancelled
+ORD-1062,Rahul Khanna,rahul.khanna43@example.com,  East ,Electronics,05/10/2024,8,642.66,0.1,Completed
+ORD-1148,Pooja Nair,pooja.nair80@example.com,East,Sports,"Aug 23, 2024",2,64.34,N/A,Completed
+ORD-1483,Vikram Rao,vikram.rao53@example.com,East,Home,"Dec 11, 2024",1,114.34,0.1,Cancelled
+ORD-1588,Neha Verma,neha.verma40@example.com,North ,Books,2024-09-05,2,30.4,0.0,Cancelled
+ORD-1257,Pooja Nair,pooja.nair76@example.com,,Books,02/11/2024,7,7.21,0.0,Cancelled
+ORD-1052,Priya Singh,priya.singh67@example.com,South,Sports,09/02/2024,4,99.0,0.05,Returned
+ORD-1242,Anjali Jain,anjali.jain54@example.com,East,Sports,"Jul 23, 2024",7,70.16,0.0,Completed
+ORD-1173,None,neha.verma95@example.com,SOUTH,Home,2024-04-22,8,273.24,10%,Returned 
+ORD-1035,Pooja Nair,na,West,Electronics,04/04/2024,5,874.45,0.0,  Returned 
+ORD-1178,Pooja Nair,pooja.nair44@example.com,SOUTH,Clothing,"Nov 21, 2024",8,32.56,0.0,  Cancelled 
+ORD-1120,Rohan Gupta,rohan.gupta9@example.com,north,Sports,2024-01-23,5,155.38,0.0,Completed
+ORD-1275,Aarav Sharma,nan,North ,Clothing,21/10/2024,7,109.56,0.0,Completed
+ORD-1044,Aarav Sharma,None,East,Electronics,21/10/2024,8,$461.15,0.1,Completed
+ORD-1300,Anjali Jain,anjali.jain85@example.com,West,Electronics,2024-10-14,4,594.26,0.1,Cancelled
+ORD-1076,Priya Singh,priya.singh7@example.com,,Clothing,10/12/2024,8,55.28,0.1,Returned
+ORD-1368,Rohan Gupta,rohan.gupta80@example.com,West,Home,2024-12-06,8,175.27,0.05,Completed
+ORD-1212,Neha Verma,neha.verma86@example.com,East,Clothing,2024-03-13,4,97.04,0.2,Completed
+ORD-1267,Priya Singh,priya.singh48@example.com,West,Sports,"May 02, 2024",1,86.6,0.15,Cancelled
+ORD-1311,Rohan Gupta,rohan.gupta80@example.com,-,Electronics,08/06/2024,9,$669.91,0.05,Completed
+ORD-1444,Anjali Jain,anjali.jain37@example.com,East,Electronics,2024-04-23,7,837.08,0.05,completed
+ORD-1503,Vikram Rao,N/A,North,Sports,"Aug 06, 2024",9,151.19,0.05,Completed
+ORD-1495,Anjali Jain,anjali.jain49@example.com,South,Electronics,2024-02-05,6,437.46,15%,PENDING
+ORD-1033,Neha Verma,neha.verma22@example.com,West,Home,07/04/2024,6,151.96,0.05,Completed
+ORD-1009,Pooja Nair,pooja.nair48@example.com,West,Electronics,"Aug 04, 2024",7,174.78,0.15,Cancelled
+ORD-1160,Sneha Iyer,sneha.iyer6@example.com,  West ,Sports,"Apr 01, 2024",3,67.69,10%,Completed
+ORD-1285,Vikram Rao,vikram.rao90@example.com,North ,Sports,"Apr 21, 2024",7,,0.2,COMPLETED
+ORD-1295,Rahul Khanna,rahul.khanna91@example.com,South,Home,2024-12-01,8,251.72,0.1,Completed
+ORD-1277,N/A,aarav.sharma50@example.com,South,Books,"Nov 12, 2024",-8,17.15,20%,Completed
+ORD-1590,Aarav Sharma,aarav.sharma31@example.com,na,Clothing,18/10/2024,6,83.37,0.05,Completed
+ORD-1484,Anjali Jain,anjali.jain82@example.com,West ,Books,"Jun 25, 2024",6,$34.09,nan,Cancelled
+ORD-1496,Sneha Iyer,sneha.iyer12@example.com,South,Clothing,"Dec 07, 2024",None,38.12,0.15,Returned
+ORD-1182,nan,neha.verma78@example.com,na,Books,2024-12-11,2,28.63,0.2,Completed
+ORD-1473,Pooja Nair,pooja.nair13@example.com,East,Clothing,2024-09-19,3,81.54,0.0,Completed
+ORD-1036,Neha Verma,neha.verma7@example.com,  West ,Books,2024-06-02,3,21.33,0.05,Completed
+ORD-1156,Vikram Rao,vikram.rao97@example.com,East,Home,2024-06-13,4,147.22,0.05,Completed
+ORD-1002,Neha Verma,neha.verma62@example.com,South,Books,26/11/2024,7,8.68,0.05,Completed
+ORD-1508,Neha Verma,neha.verma58@example.com,West,Sports,"Apr 06, 2024",7,80.54,0.1,Completed
+ORD-1497,Sneha Iyer,,East,Sports,20/05/2024,8,173.42,0.05,Completed
+ORD-1308,Karan Mehta,karan.mehta97@example.com,East,Clothing,14/01/2024,4,109.96,0.0,Completed 
+ORD-1289,Aarav Sharma,aarav.sharma71@example.com,na,Books,2024-12-22,7,$39.63,0.05,Completed 
+ORD-1560,Aarav Sharma,aarav.sharma87@example.com,EAST,Electronics,"Aug 18, 2024",7,236.25,0.0,Completed
+ORD-1414,Rohan Gupta,rohan.gupta29@example.com,  North ,Home,2024-07-14,3,N/A,0.0,Completed
+ORD-1421,Rahul Khanna,rahul.khanna65@example.com,south,Clothing,2024-11-26,2,$93.94,0.15,Completed
+ORD-1141,Priya Singh,priya.singh51example.com,South,Clothing,"Sep 14, 2024",4,63.51,0.1,  Completed 
+ORD-1223,None,neha.verma64example.com,South,Home,2024-10-04,9,60.79,0.0,Completed
+ORD-1183,Rahul Khanna,rahul.khanna78@example.com,NORTH,Hom,02/08/2024,5,$34.72,15%,Cancelled
+ORD-1066,N/A,karan.mehta46example.com,West,Clothing,"Jul 06, 2024",2,66.36,0.1,Completed
+ORD-1511,Aarav Sharma,aarav.sharma35@example.com,East,Sports,2024-11-08,3,160.89,0.0,  Completed 
+ORD-1117,Pooja Nair,pooja.nair33@example.com,East,Clothing,09/03/2024,8,$68.88,0.1,Completed
+ORD-1001,Rohan Gupta,rohan.gupta80@example.com,South ,Home,23/12/2024,7,225.75,0.0,Cancelled
+ORD-1113,Rohan Gupta,rohan.gupta23@example.com,East,Clothing,"Dec 13, 2024",9,80.0,0.05,Pending
+ORD-1013,Pooja Nair,pooja.nair32@example.com,North,Home,09/07/2024,5,190.63,0.1,Returned
+ORD-1165,Pooja Nair,pooja.nair98@example.com,WEST,Clothing,10/08/2024,3,62.48,0.0,Completed
+ORD-1184,Rahul Khanna,rahul.khanna71@example.com,South,Electronics,"Dec 21, 2024",9,322.2,nan,Completed
+ORD-1372,Vikram Rao,vikram.rao45@example.com,  South ,Sports,2024-12-05,6,183.83,0.05,Completed
+ORD-1274,Rahul Khanna,rahul.khanna37@example.com,north,Books,2024-06-16,7,17.31,0.05,Completed
+ORD-1000,Vikram Rao,vikram.rao38@example.com,West,Clothing,2024-10-20,4,82.82,0.0,Completed
+ORD-1566,Sneha Iyer,sneha.iyer17@example.com,East,Electronics,"Apr 24, 2024",8,646.4,0.1,Completed
+ORD-1540,Aarav Sharma,aarav.sharma14@example.com,East,Clothing,23/12/2024,9,$19.10,0.05,Completed
+ORD-1500,Pooja Nair,pooja.nair57@example.com,East,Home,"Jul 16, 2024",9,92.53,0.0,Completed
+ORD-1383,Pooja Nair,pooja.nair20@example.com,North,Clothing,01/02/2024,nan,95.38,None,Completed
+ORD-1405,Vikram Rao,vikram.rao96@example.com,West,Clothing,"Dec 22, 2024",7,24.34,0.05,Completed
+ORD-1561,Karan Mehta,karan.mehta25@example.com,North,Hom,"Jan 25, 2024",7,204.34,0.0,  Completed 
+ORD-1020,Rahul Khanna,nan,East,Clothing,12/04/2024,8,15.29,0.0,Completed
+ORD-1176,Aarav Sharma,aarav.sharma91@example.com,North,Clothng,"Nov 27, 2024",1,58.89,0.0,Completed
+ORD-1335,Neha Verma,neha.verma98@example.com,  East ,Electronics,2024-04-11,8,162.74,0.05,Pending
+ORD-1379,Priya Singh,priya.singh52@example.com,West,Clothing,"Dec 09, 2024",1,15.6,0.0,Completed
+ORD-1545,Rahul Khanna,rahul.khanna43@example.com,East,Books,01/06/2024,4,13.19,0.0,Completed
+ORD-1171,Pooja Nair,pooja.nair72example.com,SOUTH,Books,"Oct 08, 2024",2,17.54,0.15,Returned 
+ORD-1519,Neha Verma,neha.verma22@example.com,EAST,Home,"Oct 02, 2024",2,$177.77,0.05,Returned
+ORD-1507,Karan Mehta,karan.mehta26@example.com,West,Electronics,2024-09-06,3,619.85,0.15,Completed
+ORD-1152,Anjali Jain,anjali.jain8@example.com,South ,Home,2024-10-10,-,48.48,0.15,COMPLETED
+ORD-1451,Rahul Khanna,rahul.khanna74@example.com,EAST,Clothing,"Oct 22, 2024",6,30.31,0.05,  Completed 
+ORD-1413,Pooja Nair,pooja.nair84@example.com,South ,Sports,27/07/2024,1,119.86,,Completed 
+ORD-1165,Pooja Nair,pooja.nair98@example.com,WEST,Clothing,10/08/2024,3,62.48,0.0,Completed
+ORD-1268,Vikram Rao,vikram.rao91@example.com,East,Home,22/05/2024,6,257.22,0.05,Completed
+ORD-1581,Aarav Sharma,aarav.sharma9@example.com,South,Hom,05/12/2024,3,170.84,0%,Completed
+ORD-1316,Pooja Nair,pooja.nair35@example.com,North,Books,26/12/2024,5,16.95,15%,Completed
+ORD-1258,Aarav Sharma,aarav.sharma6@example.com,  West ,Sports,2024-09-15,6,192.9,0.05,Completed
+ORD-1474,Anjali Jain,anjali.jain7@example.com,West,Sports,"Sep 05, 2024",6,181.57,0.05,Cancelled
+ORD-1337,Pooja Nair,nan,N/A,Home,2024-02-21,nan,96.75,nan,Cancelled
+ORD-1538,Anjali Jain,anjali.jain23@example.com,East,Home,nan,5,138.62,0.1,Completed
+ORD-1504,Karan Mehta,karan.mehta69@example.com,East,Books,20/11/2024,5,24.74,0.0,  Completed 
+ORD-1398,Vikram Rao,vikram.rao88@example.com,East,,23/12/2024,1,289.74,0.05,Cancelled
+ORD-1423,Karan Mehta,karan.mehta24@example.com,North,Home,"Nov 11, 2024",5,156.18,0.1,  Completed 
+ORD-1023,Anjali Jain,anjali.jain10@example.com,south,Electronics,2024-01-19,2,618.44,0.05,Completed
+ORD-1480,Rahul Khanna,rahul.khanna82@example.com,West,Home,18/05/2024,6,191.68,None,Completed
+ORD-1422,Karan Mehta,karan.mehta19@example.com,South,Electronics,2024-02-19,1,372.13,0.0,completed
+ORD-1119,Vikram Rao,vikram.rao64@example.com,N/A,Clothing,"Nov 03, 2024",5,$89.90,10%,COMPLETED
+ORD-1256,Aarav Sharma,aarav.sharma25@example.com,West,Home,20/02/2024,5,151.99,0%,COMPLETED
+ORD-1123,POOJA NAIR,pooja.nair90@example.com,north,Home,08/08/2024,2,210.63,0.05,Completed
+ORD-1249,Rohan Gupta,rohan.gupta1@example.com,South,Clothing,2024-06-07,-,56.37,0.0,Completed
